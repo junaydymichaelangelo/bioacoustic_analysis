@@ -1,7 +1,5 @@
 ###############################################################
 # Merge all BirdNET Selection Table (.txt) files
-# Author : ChatGPT
-# Purpose: Safely merge all BirdNET selection tables
 ###############################################################
 
 # =============================================================
