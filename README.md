@@ -1,5 +1,3 @@
-# bioacoustic_analysis
-
 # bioacoustic-analysis
 Collection of R and Python scripts for bioacoustic data processing, BirdNET outputs, acoustic analyses, and machine learning workflows.
 # Bioacoustic Analysis
